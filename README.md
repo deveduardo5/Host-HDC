@@ -99,6 +99,6 @@ Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICE
 
 Para perguntas ou feedback, entre em contato com:
 
-- **Autor:** Ismael Piva
+- **Autor:** Eduardo Alcantara
 - **GitHub:** [@deveduardo5](https://github.com/deveduardo5)
 - **Email:** [eduardoalcantara.008@gmail.com](mailto:eduardoalcantara.008@gmail.com)
